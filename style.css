@@ -7,7 +7,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: "East Sea Dokdo", cursive;
-    background-image: url(image/soju.jpeg);
+    background-image: url(image/casino.jpg);
   }
   
   .container {
@@ -37,7 +37,7 @@ body {
   .pre-title {
     font-size: 5vw;
     font-weight: bold;
-    color: blue;
+    color: purple;
   }
   .title {
     font-size: 7vw;
